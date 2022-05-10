@@ -3,3 +3,6 @@ A simple planner to keep organised. I have made this simple planner. I added smo
 
 The buttons were supposed to be at the end of the
  div not in the middle. I tried to reposition but I cant figure out why I cannot get them in the desired position.
+
+
+Here is a link to the delpoyed application https://bitcoin507.github.io/Day_Planner/
